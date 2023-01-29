@@ -1,5 +1,7 @@
 # RiceDatathon2023_TeamVAMB
 
+Mahmoud Al-Madi, Akshat Kumar, Benjamin Meisburger, Virginia Baskin
+
 ## Bill.com Challenge.
 
 Our approach involved two main steps– Information Extraction and Information Retrieval. <br>
